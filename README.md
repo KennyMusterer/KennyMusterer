@@ -1,41 +1,43 @@
-### PROGRAMMING LANUGAGES:
+### PROGRAMMIERSPRACHEN:
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="Java" width="70px" src="https://user-images.githubusercontent.com/20931258/131356512-4db2afd5-d908-47e0-b781-e5548db2c214.png" />
 
-<img align="left" alt="C-Sharp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C-Sharp" width="70px" src="https://user-images.githubusercontent.com/20931258/131356676-670bc934-3ec1-430f-ba67-3d9293b9d2ab.png" />
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/python/python-original.svg" />
+<img align="left" alt="Python" width="70px" src="https://user-images.githubusercontent.com/20931258/131356722-a578b40e-8ab0-4d41-bc2c-5a56bdc23ade.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="70px" src="https://user-images.githubusercontent.com/20931258/131356816-76ab125a-0b83-4cca-a3ea-520d63b439f3.png" />
 
 <br /><br />
 
+
 ### Tools:
 
-<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/20931258/131321009-ddfe0d4e-37f9-4de2-a7e7-b97db665b28a.png" />
 
-<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/20931258/131321402-75dbe007-2244-44c7-9896-be7c4325116d.png" />
+<img align="left" alt="AndroidStudio" width="70px" src="https://user-images.githubusercontent.com/20931258/131357074-63df6ac7-6b66-4f0e-8a55-b6db31103ed8.png" />
 
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="Unity" width="70px" src="https://user-images.githubusercontent.com/20931258/131357190-37d75dc2-305d-47eb-bdc1-313943454243.png" />
 
-<img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/20931258/131321536-dadace07-161e-465f-8f12-82db708dbc18.png" />
+<img align="left" alt="SpringBoot" width="70px" src="https://user-images.githubusercontent.com/20931258/131357312-0905256c-158e-46cf-b344-e45391ce428a.png" />
 
-<img align="left" alt="Unity" width="26px" src="https://user-images.githubusercontent.com/20931258/131322141-569cc1f1-9302-47dc-8016-5fb6449c2690.png" />
+<img align="left" alt="Bootstrap" width="70px" src="https://user-images.githubusercontent.com/20931258/131357628-36633d2c-c99c-4a17-b548-d06a3bd7a62e.png" />
 
-<img align="left" alt="SpringBoot" width="26px" src="https://user-images.githubusercontent.com/20931258/131325119-e919c9f0-c048-4cfc-a262-01e11accd08d.png" />
+<img align="left" alt="Docker" width="70px" src="https://user-images.githubusercontent.com/20931258/131357714-af4e9a2e-10e3-4289-8ef9-3d835b8fbaf2.png" />
 
-<img align="left" alt="AndroidStudio" width="26px" src="https://user-images.githubusercontent.com/20931258/131326233-1890775f-0787-4af5-8245-1e41ee1893b5.png" />
+<img align="left" alt="Git" width="70px" src="https://user-images.githubusercontent.com/20931258/131357774-1892edb9-3fee-4d60-9d40-2d6cc6f33de3.png" />
+
+<img align="left" alt="SQL" width="70px" src="https://user-images.githubusercontent.com/20931258/131357843-e7b92c7c-97d4-4f21-aae4-bb76b0fa5bcf.png" />
 
 <br /><br />
 
 
 ### IDE's:
 
-<img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/eclipse.svg" />
+<img align="left" alt="Eclipse" width="70px" src="https://user-images.githubusercontent.com/20931258/131357944-f1e7aaca-d8c7-47bb-aa3e-2bbafc8d6346.png" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="70px" src="https://user-images.githubusercontent.com/20931258/131358001-ae2e9c79-2522-4dbb-9244-dce35da65a6c.png" />
 
-<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Visual Studio" width="70px" src="https://user-images.githubusercontent.com/20931258/131358034-a92dec4d-3d85-4a3c-bca5-995423470c9f.png" />
 
 <br /><br />
 
@@ -58,3 +60,4 @@
 * Mikrocontroller
   * ESP8266 
   * Raspberry Pi
+
