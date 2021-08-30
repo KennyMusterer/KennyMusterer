@@ -1,3 +1,24 @@
+<h2>
+Beschäftigung:
+</h2>
+
+[<img align="left" height="94px" width="94px" alt="VW" src="https://user-images.githubusercontent.com/20931258/131373296-aa8ced38-05e9-43a8-9df2-e7ed03c3143f.jpg"/>](https://www.volkswagen-sachsen.de/de.html)
+
+**Volkswagen Sachsen GmbH** \
+Duale Ausbildung • Fachinformatiker für Anwendungsentwicklung \
+Programmiersprachen und Tools: `C#`, `C`, `Docker`, `Unity`, `UWP`, `Microsoft Hololens`, `SQL`\
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="WHZ" src="https://user-images.githubusercontent.com/20931258/131372847-94b32cb4-293a-49d8-b891-1c1cd6d2fffd.jpg"/>](https://www.fh-zwickau.de/)
+
+**Westsächsische Hochschule Zwickau** \
+Studium • Informatik \
+Programmiersprachen und Tools: `Java`, `Python`, `HTML`, `AndroidStudio`, `SpringBoot`, `SQL`\
+<br/>
+<br/>
+
+
 
 <h2>
 PROGRAMMIERSPRACHEN:
