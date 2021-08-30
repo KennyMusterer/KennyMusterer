@@ -32,6 +32,8 @@ PROGRAMMIERSPRACHEN:
 
 <img align="left" alt="HTML5" width="70px" src="https://user-images.githubusercontent.com/20931258/131356816-76ab125a-0b83-4cca-a3ea-520d63b439f3.png" />
 
+<img align="left" alt="CSS" width="70px" src="https://user-images.githubusercontent.com/20931258/131383145-414527ff-d84d-400c-ab9e-299347a0b0bb.png" />
+
 <br /><br />
 <br /><br />
 
