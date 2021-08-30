@@ -24,7 +24,10 @@
 
 <img align="left" alt="SpringBoot" width="26px" src="https://user-images.githubusercontent.com/20931258/131325119-e919c9f0-c048-4cfc-a262-01e11accd08d.png" />
 
+<img align="left" alt="AndroidStudio" width="26px" src="https://user-images.githubusercontent.com/20931258/131326233-1890775f-0787-4af5-8245-1e41ee1893b5.png" />
+
 <br /><br />
+
 
 ### IDE's:
 
@@ -33,3 +36,24 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain.svg" />
+
+<br /><br />
+
+### Entwicklung für:
+
+* Desktop
+  * JavaFX
+  * WPF
+  * UWP  
+  * Unity 
+* Web
+  * SpringBoot
+  * Blazor 
+* Mobile
+  * Android 
+* VR
+  * Oculus Quest   
+* AR
+  * Microsoft Hololens 
+* Arduino
+  * ESP8266 
