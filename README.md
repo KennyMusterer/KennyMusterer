@@ -55,5 +55,6 @@
   * Oculus Quest   
 * AR
   * Microsoft Hololens 
-* Arduino
+* Mikrocontroller
   * ESP8266 
+  * Raspberry Pi
