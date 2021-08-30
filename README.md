@@ -1,4 +1,7 @@
-### PROGRAMMIERSPRACHEN:
+
+<h2>
+PROGRAMMIERSPRACHEN:
+</h2>
 
 <img align="left" alt="Java" width="70px" src="https://user-images.githubusercontent.com/20931258/131356512-4db2afd5-d908-47e0-b781-e5548db2c214.png" />
 
@@ -9,10 +12,11 @@
 <img align="left" alt="HTML5" width="70px" src="https://user-images.githubusercontent.com/20931258/131356816-76ab125a-0b83-4cca-a3ea-520d63b439f3.png" />
 
 <br /><br />
+<br /><br />
 
-
-### Tools:
-
+<h2>
+Tools:
+</h2>
 
 <img align="left" alt="AndroidStudio" width="70px" src="https://user-images.githubusercontent.com/20931258/131357074-63df6ac7-6b66-4f0e-8a55-b6db31103ed8.png" />
 
@@ -29,9 +33,11 @@
 <img align="left" alt="SQL" width="70px" src="https://user-images.githubusercontent.com/20931258/131357843-e7b92c7c-97d4-4f21-aae4-bb76b0fa5bcf.png" />
 
 <br /><br />
+<br /><br />
 
-
-### IDE's:
+<h2>
+IDE's:
+</h2>
 
 <img align="left" alt="Eclipse" width="70px" src="https://user-images.githubusercontent.com/20931258/131357944-f1e7aaca-d8c7-47bb-aa3e-2bbafc8d6346.png" />
 
@@ -40,24 +46,71 @@
 <img align="left" alt="Visual Studio" width="70px" src="https://user-images.githubusercontent.com/20931258/131358034-a92dec4d-3d85-4a3c-bca5-995423470c9f.png" />
 
 <br /><br />
+<br /><br />
 
-### Entwicklung für:
+<h2>
+Bisherige Projekte:
+</h2>
 
-* Desktop
-  * JavaFX
-  * WPF
-  * UWP  
-  * Unity 
-* Web
-  * SpringBoot
-  * Blazor 
-* Mobile
-  * Android 
-* VR
-  * Oculus Quest   
-* AR
-  * Microsoft Hololens 
-* Mikrocontroller
-  * ESP8266 
-  * Raspberry Pi
 
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Plattform</th>
+      <th>Software/Hardware</th>
+    </tr>
+    <tr>
+      <td>Desktop</td>
+      <td>
+       <ul>
+          <li>Unity</li>
+          <li>UWP</li>
+          <li>WPF</li>
+          <li>JavaFX</li>    
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td>Web</td>
+      <td>
+       <ul>
+          <li>SpringBoot</li>
+          <li>Blazor</li>  
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td>Mobile</td>
+      <td>
+       <ul>
+          <li>AndroidStudio</li>
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td>VR</td>
+      <td>
+       <ul>
+          <li>Oculus Quest</li>
+        </ul> 
+      </td>
+    </tr>
+   <tr>
+      <td>AR</td>
+      <td>
+       <ul>
+          <li>Microsoft Hololens</li>
+        </ul> 
+      </td>
+    </tr>
+   <tr>
+      <td>Microcontroller</td>
+      <td>
+       <ul>
+          <li>ESP8366</li>
+          <li>Raspberry Pi</li>
+        </ul> 
+      </td>
+    </tr>
+  </tbody>
+</table>
