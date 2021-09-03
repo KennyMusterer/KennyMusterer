@@ -34,6 +34,8 @@ PROGRAMMIERSPRACHEN:
 
 <img align="left" alt="CSS" width="70px" src="https://user-images.githubusercontent.com/20931258/131383145-414527ff-d84d-400c-ab9e-299347a0b0bb.png" />
 
+<img align="left" alt="JavaScript" width="70px" src="https://user-images.githubusercontent.com/20931258/132023942-98b45c77-a92e-426a-94bc-86705a776041.png" />
+
 <br /><br />
 <br /><br />
 
@@ -46,6 +48,8 @@ Tools:
 <img align="left" alt="Unity" width="70px" src="https://user-images.githubusercontent.com/20931258/131357190-37d75dc2-305d-47eb-bdc1-313943454243.png" />
 
 <img align="left" alt="SpringBoot" width="70px" src="https://user-images.githubusercontent.com/20931258/131357312-0905256c-158e-46cf-b344-e45391ce428a.png" />
+
+<img align="left" alt="Django" width="70px" src="https://user-images.githubusercontent.com/20931258/132024071-5a7a724e-4a94-4f76-b7f0-f773e8f21781.png" />
 
 <img align="left" alt="Bootstrap" width="70px" src="https://user-images.githubusercontent.com/20931258/131357628-36633d2c-c99c-4a17-b548-d06a3bd7a62e.png" />
 
