@@ -79,7 +79,14 @@ IDE's:
 Bisherige Projekte:
 </h2>
 
-### [Codepen](https://codepen.io/kennymusterer)
+[<img align="left" alt="CODEPEN" src="https://user-images.githubusercontent.com/20931258/133752948-3147eef0-66b4-4d99-b121-a720c4b85516.png"/>](https://codepen.io/kennymusterer)
+<br/>
+**Mein CODEPEN-Profil** \
+Diverse designorientierte Miniprojekte \
+Programmiersprachen und Tools: `HTML`, `CSS`, `JS`\
+<br/>
+<br/>
+<br/>
 
 <table>
   <tbody>
