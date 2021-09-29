@@ -76,7 +76,7 @@ IDE's:
 <br /><br />
 
 <h2>
-Bisherige Projekte:
+Projekte:
 </h2>
 
 [<img align="left" alt="CODEPEN" src="https://user-images.githubusercontent.com/20931258/133752948-3147eef0-66b4-4d99-b121-a720c4b85516.png"/>](https://codepen.io/kennymusterer)
@@ -87,65 +87,10 @@ Programmiersprachen und Tools: `HTML`, `CSS`, `JS`\
 <br/>
 <br/>
 <br/>
+**Genutzte Programmiersprachen in den letzten 7 Tagen: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Genutzte Editoren in den letzten 7 Tagen:**
+<br/>
+<img align="left" src="https://wakatime.com/share/@7dcc8c54-b16d-461a-8191-ed2b6874033c/dadb2eba-f146-45d5-9caf-bc3b661b999b.svg" width="450px"></img>
+<img align="right" src="https://wakatime.com/share/@7dcc8c54-b16d-461a-8191-ed2b6874033c/0c0b57dd-5cda-4f43-b5a5-d924cf589ac5.svg" width="450px"></img>
 
-<table>
-  <tbody>
-    <tr>
-      <th align="center">Plattform</th>
-      <th>Software/Hardware</th>
-    </tr>
-    <tr>
-      <td>Desktop</td>
-      <td>
-       <ul>
-          <li>Unity</li>
-          <li>UWP</li>
-          <li>WPF</li>
-          <li>JavaFX</li>    
-        </ul> 
-      </td>
-    </tr>
-    <tr>
-      <td>Web</td>
-      <td>
-       <ul>
-          <li>SpringBoot</li>
-          <li>Blazor</li>  
-        </ul> 
-      </td>
-    </tr>
-    <tr>
-      <td>Mobile</td>
-      <td>
-       <ul>
-          <li>AndroidStudio</li>
-        </ul> 
-      </td>
-    </tr>
-    <tr>
-      <td>VR</td>
-      <td>
-       <ul>
-          <li>Oculus Quest</li>
-        </ul> 
-      </td>
-    </tr>
-   <tr>
-      <td>AR</td>
-      <td>
-       <ul>
-          <li>Microsoft Hololens</li>
-        </ul> 
-      </td>
-    </tr>
-   <tr>
-      <td>Microcontroller</td>
-      <td>
-       <ul>
-          <li>ESP8366</li>
-          <li>Raspberry Pi</li>
-        </ul> 
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+
