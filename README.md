@@ -91,8 +91,8 @@ Programmiersprachen und Tools: `HTML`, `CSS`, `JS`\
 
 **Genutzte Programmiersprachen in den letzten 7 Tagen: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Genutzte Editoren in den letzten 7 Tagen:**
 <br/>
-<img align="left" src="https://wakatime.com/share/@7dcc8c54-b16d-461a-8191-ed2b6874033c/dadb2eba-f146-45d5-9caf-bc3b661b999b.svg" width="400px"></img>
-<img align="right" src="https://wakatime.com/share/@7dcc8c54-b16d-461a-8191-ed2b6874033c/0c0b57dd-5cda-4f43-b5a5-d924cf589ac5.svg" width="400px"></img>
+<a href="#"> <img align="left" src="https://wakatime.com/share/@7dcc8c54-b16d-461a-8191-ed2b6874033c/dadb2eba-f146-45d5-9caf-bc3b661b999b.svg" width="400px"></img></a>
+<a href="#"> <img align="right" src="https://wakatime.com/share/@7dcc8c54-b16d-461a-8191-ed2b6874033c/0c0b57dd-5cda-4f43-b5a5-d924cf589ac5.svg" width="400px"></img></a>
 
 
 
