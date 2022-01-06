@@ -47,6 +47,8 @@ Tools:
 
 <img align="left" alt="Unity" width="70px" src="https://user-images.githubusercontent.com/20931258/131357190-37d75dc2-305d-47eb-bdc1-313943454243.png" />
 
+<img align="left" alt="Angular" width="70px" src="https://user-images.githubusercontent.com/20931258/148452281-52a3239d-8f29-4ebd-bc07-d41ecec41bb2.png" />
+
 <img align="left" alt="SpringBoot" width="70px" src="https://user-images.githubusercontent.com/20931258/131357312-0905256c-158e-46cf-b344-e45391ce428a.png" />
 
 <img align="left" alt="Django" width="70px" src="https://user-images.githubusercontent.com/20931258/132024071-5a7a724e-4a94-4f76-b7f0-f773e8f21781.png" />
