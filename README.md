@@ -6,7 +6,7 @@ Beschäftigung:
 
 **Volkswagen Sachsen GmbH** \
 Duale Ausbildung • Fachinformatiker für Anwendungsentwicklung \
-Programmiersprachen und Tools: `C#`, `C`, `Docker`, `Unity`, `UWP`, `Microsoft Hololens`, `SQL`, `Django`, `HTML`, `CSS`, `JS`\
+Programmiersprachen und Tools: `Angular`, `Docker`, `Unity`, `UWP`, `Microsoft Hololens`, `Django`, `SQL`, `C#`, `HTML`, `CSS`, `TS`\
 <br/>
 <br/>
 
