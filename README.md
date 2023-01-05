@@ -6,7 +6,7 @@ Beschäftigung:
 
 **Volkswagen Sachsen GmbH** \
 Duale Ausbildung • Fachinformatiker für Anwendungsentwicklung \
-Programmiersprachen und Tools: `Angular`, `Docker`, `Unity`, `UWP`, `Microsoft Hololens`, `Django`, `SQL`, `C#`, `HTML`, `CSS`, `TS`\
+Programmiersprachen und Tools: `Angular`, `MSSQL`, `C#`, `HTML`, `CSS`, `TS`\
 <br/>
 <br/>
 
@@ -14,7 +14,7 @@ Programmiersprachen und Tools: `Angular`, `Docker`, `Unity`, `UWP`, `Microsoft H
 
 **Westsächsische Hochschule Zwickau** \
 Studium • Informatik \
-Programmiersprachen und Tools: `Java`, `Python`, `HTML`, `AndroidStudio`, `SpringBoot`, `SQL`\
+Programmiersprachen und Tools: `Java`, `Python`, `HTML`, `SpringBoot`, `SQL`\
 <br/>
 <br/>
 
