@@ -93,7 +93,7 @@ Programmiersprachen und Tools: `HTML`, `CSS`, `JS`\
 
 **Genutzte Programmiersprachen:**
 <br/>
-<img align="left" src="https://wakatime.com/share/@7dcc8c54-b16d-461a-8191-ed2b6874033c/dadb2eba-f146-45d5-9caf-bc3b661b999b.svg"></img></a>
+<img align="left" src="https://wakatime.com/share/@7dcc8c54-b16d-461a-8191-ed2b6874033c/c0b3ae6e-c885-4fe7-adc7-a14e9a2eb20e.svg"></img></a>
 
 
 
