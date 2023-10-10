@@ -5,7 +5,7 @@ Beschäftigung:
 [<img align="left" height="94px" width="94px" alt="VW" src="https://user-images.githubusercontent.com/20931258/131373296-aa8ced38-05e9-43a8-9df2-e7ed03c3143f.jpg"/>](https://www.volkswagen-sachsen.de/de.html)
 
 **Volkswagen Sachsen GmbH** \
-Duale Ausbildung • Fachinformatiker für Anwendungsentwicklung \
+IT-Projektleitung \
 Programmiersprachen und Tools: `Angular`, `MSSQL`, `C#`, `HTML`, `CSS`, `TS`\
 <br/>
 <br/>
