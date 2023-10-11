@@ -6,7 +6,6 @@ Beschäftigung:
 
 **Volkswagen Sachsen GmbH** \
 IT-Projektleitung \
-Programmiersprachen und Tools: `Angular`, `MSSQL`, `C#`, `HTML`, `CSS`, `TS`\
 <br/>
 <br/>
 
@@ -18,7 +17,6 @@ Projekte:
 <br/>
 **Mein CODEPEN-Profil** \
 Diverse designorientierte Miniprojekte \
-Programmiersprachen und Tools: `HTML`, `CSS`, `JS`\
 <br/>
 <br/>
 <br/>
